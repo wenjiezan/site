@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wenjiezan.github.io/notes/categories/</loc>
+    <loc>https://wenjiezan.github.io/notes_site/categories/</loc>
   </url><url>
-    <loc>https://wenjiezan.github.io/notes/</loc>
+    <loc>https://wenjiezan.github.io/notes_site/</loc>
   </url><url>
-    <loc>https://wenjiezan.github.io/notes/notes/something/</loc>
+    <loc>https://wenjiezan.github.io/notes_site/notes/something/</loc>
   </url><url>
-    <loc>https://wenjiezan.github.io/notes/tags/</loc>
+    <loc>https://wenjiezan.github.io/notes_site/tags/</loc>
   </url><url>
-    <loc>https://wenjiezan.github.io/notes/notes/</loc>
+    <loc>https://wenjiezan.github.io/notes_site/notes/</loc>
   </url>
 </urlset>

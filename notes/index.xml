@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test 1 on My Notes</title>
-    <link>https://wenjiezan.github.io/notes/notes/</link>
-    <description>Recent content in test 1 on My Notes</description>
+    <title>test 1 on Notes</title>
+    <link>https://wenjiezan.github.io/notes_site/notes/</link>
+    <description>Recent content in test 1 on Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://wenjiezan.github.io/notes/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wenjiezan.github.io/notes_site/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>something</title>
-      <link>https://wenjiezan.github.io/notes/notes/something/</link>
+      <link>https://wenjiezan.github.io/notes_site/notes/something/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://wenjiezan.github.io/notes/notes/something/</guid>
+      <guid>https://wenjiezan.github.io/notes_site/notes/something/</guid>
       <description>hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello&#xA;hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello</description>
     </item>
   </channel>

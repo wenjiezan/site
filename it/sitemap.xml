@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wenjiezan.github.io/notes_site/it/docs/</loc>
+    <loc>https://wenjiezan.github.io/site/it/docs/</loc>
     <lastmod>2024-05-09T11:17:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenjiezan.github.io/notes_site/docs/"
+                href="https://wenjiezan.github.io/site/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://wenjiezan.github.io/notes_site/it/docs/"
+                href="https://wenjiezan.github.io/site/it/docs/"
                 />
   </url><url>
-    <loc>https://wenjiezan.github.io/notes_site/it/library/</loc>
+    <loc>https://wenjiezan.github.io/site/it/library/</loc>
     <lastmod>2024-05-14T00:27:54+01:00</lastmod>
   </url><url>
-    <loc>https://wenjiezan.github.io/notes_site/it/blog/</loc>
+    <loc>https://wenjiezan.github.io/site/it/blog/</loc>
     <lastmod>2024-05-09T11:17:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenjiezan.github.io/notes_site/blog/"
+                href="https://wenjiezan.github.io/site/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://wenjiezan.github.io/notes_site/it/blog/"
+                href="https://wenjiezan.github.io/site/it/blog/"
                 />
   </url><url>
-    <loc>https://wenjiezan.github.io/notes_site/it/blog/conditions-for-murder/</loc>
+    <loc>https://wenjiezan.github.io/site/it/blog/conditions-for-murder/</loc>
     <lastmod>2024-05-14T00:27:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenjiezan.github.io/notes_site/blog/conditions-for-murder/"
+                href="https://wenjiezan.github.io/site/blog/conditions-for-murder/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://wenjiezan.github.io/notes_site/it/blog/conditions-for-murder/"
+                href="https://wenjiezan.github.io/site/it/blog/conditions-for-murder/"
                 />
   </url><url>
-    <loc>https://wenjiezan.github.io/notes_site/it/categories/</loc>
+    <loc>https://wenjiezan.github.io/site/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenjiezan.github.io/notes_site/categories/"
+                href="https://wenjiezan.github.io/site/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://wenjiezan.github.io/notes_site/it/categories/"
+                href="https://wenjiezan.github.io/site/it/categories/"
                 />
   </url><url>
-    <loc>https://wenjiezan.github.io/notes_site/it/</loc>
+    <loc>https://wenjiezan.github.io/site/it/</loc>
     <lastmod>2024-05-09T11:17:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenjiezan.github.io/notes_site/"
+                href="https://wenjiezan.github.io/site/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://wenjiezan.github.io/notes_site/it/"
+                href="https://wenjiezan.github.io/site/it/"
                 />
   </url><url>
-    <loc>https://wenjiezan.github.io/notes_site/it/tags/</loc>
+    <loc>https://wenjiezan.github.io/site/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://wenjiezan.github.io/notes_site/tags/"
+                href="https://wenjiezan.github.io/site/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://wenjiezan.github.io/notes_site/it/tags/"
+                href="https://wenjiezan.github.io/site/it/tags/"
                 />
   </url>
 </urlset>

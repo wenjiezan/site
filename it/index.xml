@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Notes</title>
+    <link>https://it.wenjiezan.github.io/notes_site/</link>
+    <description>Recent content in Home on Notes</description>
+    <generator>Hugo</generator>
+    <language>it</language>
+    <atom:link href="https://it.wenjiezan.github.io/notes_site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Libreria</title>
+      <link>https://it.wenjiezan.github.io/notes_site/library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://it.wenjiezan.github.io/notes_site/library/</guid>
+      <description>Libreria # Vedi Bookshelf e Library.</description>
+    </item>
+    <item>
+      <title>&#34;Tutte le condizioni necessarie per un omicidio&#34;: la strana storia di una citazione di un cosmonauta</title>
+      <link>https://it.wenjiezan.github.io/notes_site/blog/conditions-for-murder/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://it.wenjiezan.github.io/notes_site/blog/conditions-for-murder/</guid>
+      <description>Tutte le condizioni necessarie per perpetrare un omicidio sono soddisfatte chiudendo due uomini in una cabina di 18 per 20 piedi&amp;hellip; per due mesi&#xA;Quando si discute delle condizioni di vita degli astronauti questa breve e minacciosa citazione di Valerij Rjumin (Валерий Викторович Рюмин) è spesso una delle linee di apertura. Sicuramente è un chiaro segnale che essere astronauti non era in realtà un&amp;rsquo;esperienza così entusiasmante, specialmente durante missioni che duravano diverse settimane o mesi.</description>
+    </item>
+  </channel>
+</rss>

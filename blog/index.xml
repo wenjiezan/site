@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Notes</title>
+    <link>https://wenjiezan.github.io/notes_site/blog/</link>
+    <description>Recent content in Blog on Notes</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://wenjiezan.github.io/notes_site/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;All the conditions for murder are met&#34;: the strange history of a cosmonaut&#39;s quote</title>
+      <link>https://wenjiezan.github.io/notes_site/blog/conditions-for-murder/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://wenjiezan.github.io/notes_site/blog/conditions-for-murder/</guid>
+      <description>All the conditions necessary for murder are met if you shut two men in a cabin measuring 18 feet by 20 and leave them together for two months.&#xA;When discussing the living conditions of astronauts, this short, dark quote by Valery Ryumin (Валерий Викторович Рюмин) is often one of the opening lines. It is sure a clear hint that being an astronaut wasn&amp;rsquo;t in fact such a glamourous experience, especially during mission that lasted several weeks or months.</description>
+    </item>
+  </channel>
+</rss>

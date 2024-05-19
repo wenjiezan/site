@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Orbital mechanics # Orbital parameters # Orbital period Inclination Eccentricity Simulators # Heliocentric orbital simulator: https://ssd.jpl.nasa.gov/tools/orbit_diagram.html
+Specific simulator for Saturn: https://gravitysimulator.org/solar-system/saturn-and-its-rings-and-major-moons
+Rotation parameters # Rotation period Axial tilt Celestial coordinates # Ascension Declination Gravitational resonance # Trojan satellites # Planetary features # Spectrum # Albedo # Peaks of eternal light # https://en.wikipedia.org/wiki/Peak_of_eternal_light
+Permanently shadowed craters # https://en.wikipedia.org/wiki/Permanently_shadowed_crater
+Planetary Topography # Spheroid # Oblate and prolate spheroids. Source.
+A spheroid, also known as an ellipsoid of revolution or rotational ellipsoid, is the surface obtained by rotating an ellipse about one of its principal axes; in other words, an ellipsoid with two equal semi-diameters.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="https://wenjiezan.github.io/site/docs/solar-system/0-planetary-science/">
+  <meta property="og:site_name" content="Notes">
+  <meta property="og:title" content="Planetary Science">
+  <meta property="og:description" content="Orbital mechanics # Orbital parameters # Orbital period Inclination Eccentricity Simulators # Heliocentric orbital simulator: https://ssd.jpl.nasa.gov/tools/orbit_diagram.html
+Specific simulator for Saturn: https://gravitysimulator.org/solar-system/saturn-and-its-rings-and-major-moons
+Rotation parameters # Rotation period Axial tilt Celestial coordinates # Ascension Declination Gravitational resonance # Trojan satellites # Planetary features # Spectrum # Albedo # Peaks of eternal light # https://en.wikipedia.org/wiki/Peak_of_eternal_light
+Permanently shadowed craters # https://en.wikipedia.org/wiki/Permanently_shadowed_crater
+Planetary Topography # Spheroid # Oblate and prolate spheroids. Source.
+A spheroid, also known as an ellipsoid of revolution or rotational ellipsoid, is the surface obtained by rotating an ellipse about one of its principal axes; in other words, an ellipsoid with two equal semi-diameters.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="website">
+<title>Planetary Science | Notes</title>
+<link rel="manifest" href="/site/manifest.json">
+<link rel="icon" href="/site/favicon.svg" >
+<link rel="canonical" href="https://wenjiezan.github.io/site/docs/solar-system/0-planetary-science/">
+<link rel="stylesheet" href="/site/book.min.e124bd5ec7199052c74949d37793a827386b1262a4d3f153d02b1106e8a00139.css" integrity="sha256-4SS9XscZkFLHSUnTd5OoJzhrEmKk0/FT0CsRBuigATk=" crossorigin="anonymous">
+  <script defer src="/site/flexsearch.min.js"></script>
+  <script defer src="/site/en.search.min.e5b2e7697b0eacc7166ec866cb4b70cd772226f7127f14db79099309359e148f.js" integrity="sha256-5bLnaXsOrMcWbshmy0twzXciJvcSfxTbeQmTCTWeFI8=" crossorigin="anonymous"></script>
+<link rel="alternate" type="application/rss+xml" href="https://wenjiezan.github.io/site/docs/solar-system/0-planetary-science/index.xml" title="Notes" />
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav style="display: flex;flex-direction: column; height: 100%;">
+<h2 class="book-brand">
+  <a class="flex align-center" href="/site/"><img src="/site/images/logo.svg" alt="Logo" /><span>Notes</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        
+          <li>
+            
+  
+  
+
+  
+    <span>Articles</span>
+  
+
+
+            
+              
+  <ul>
+    
+      
+        
+          <li>
+            
+  
+  
+
+  
+    <a href="/site/docs/solar-system/" class="">Solar System</a>
+  
+
+
+            
+              
+  <ul>
+    
+      
+        
+          <li>
+            
+  
+  
+
+  
+    <a href="/site/docs/solar-system/40-asteroid-belt/" class="">Asteroid Belt</a>
+  
+
+
+            
+              
+  <ul>
+    
+  </ul>
+
+            
+          </li>
+        
+    
+      
+        
+          <li>
+            
+  
+  
+
+  
+    <a href="/site/docs/solar-system/0-planetary-science/" class="active">Planetary Science</a>
+  
+
+
+            
+              
+  <ul>
+    
+      
+        
+          <li>
+            
+  
+  
+
+  
+    <a href="/site/docs/solar-system/0-planetary-science/comparisons/" class="">Comparisons</a>
+  
+
+
+          </li>
+        
+    
+  </ul>
+
+            
+          </li>
+        
+    
+  </ul>
+
+            
+          </li>
+        
+    
+  </ul>
+
+            
+          </li>
+        
+    
+      
+        
+          <li>
+            
+  
+  
+
+  
+    <a href="/site/library/" class="">Library</a>
+  
+
+
+            
+          </li>
+        
+    
+      
+        
+          <li>
+            
+  
+  
+
+  
+    <a href="/site/blog/" class="">Blog</a>
+  
+
+
+            
+          </li>
+        
+    
+      
+        
+          <li>
+            
+  
+  
+
+  
+    <a href="/site/bookshelf/" class="">Bookshelf</a>
+  
+
+
+          </li>
+        
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="flex-grow: 1;"></div>
+
+
+  
+
+
+
+  
+    
+  
+
+
+
+<ul class="book-languages">
+  <li>
+    <input type="checkbox" id="languages" class="toggle" />
+    <label for="languages" class="flex justify-between">
+      <a role="button" class="flex align-center">
+        <img src="/site/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </label>
+
+    <ul>
+      
+      <li>
+        <a href="https://wenjiezan.github.io/site/it/">
+          Italiano
+        </a>
+      </li>
+      
+    </ul>
+  </li>
+</ul>
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/site/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Planetary Science</strong>
+
+  <label for="toc-control">
+    
+    <img src="/site/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#orbital-mechanics">Orbital mechanics</a>
+      <ul>
+        <li><a href="#orbital-parameters">Orbital parameters</a>
+          <ul>
+            <li><a href="#simulators">Simulators</a></li>
+          </ul>
+        </li>
+        <li><a href="#rotation-parameters">Rotation parameters</a></li>
+        <li><a href="#celestial-coordinates">Celestial coordinates</a></li>
+        <li><a href="#gravitational-resonance">Gravitational resonance</a></li>
+        <li><a href="#trojan-satellites">Trojan satellites</a></li>
+      </ul>
+    </li>
+    <li><a href="#planetary-features">Planetary features</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#spectrum">Spectrum</a></li>
+            <li><a href="#albedo">Albedo</a></li>
+            <li><a href="#peaks-of-eternal-light">Peaks of eternal light</a></li>
+            <li><a href="#permanently-shadowed-craters">Permanently shadowed craters</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#planetary-topography">Planetary Topography</a>
+      <ul>
+        <li><a href="#spheroid">Spheroid</a></li>
+        <li><a href="#quadrangles">Quadrangles</a></li>
+        <li><a href="#distance-of-the-horizon">Distance of the horizon</a>
+          <ul>
+            <li><a href="#calculator">Calculator</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#planetary-geology">Planetary Geology</a>
+      <ul>
+        <li><a href="#cold-trap">Cold trap</a></li>
+      </ul>
+    </li>
+    <li><a href="#solar-system">Solar System</a>
+      <ul>
+        <li><a href="#delta-v-requirements-for-main-solar-system-bodies">Delta-v requirements for main Solar System bodies</a></li>
+        <li><a href="#coordinates-system">Coordinates system</a>
+          <ul>
+            <li><a href="#ecliptic-coordinate-system">Ecliptic coordinate system</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#references">References</a></li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  
+  <h1 style="text-align:center; margin:5rem;">Planetary Science</h1>
+
+  
+    <img src=https://wenjiezan.github.io/site/archive/images/solar-system/scale-solar-system-for-23x35-poster-labeled.jpg style="width: 100%; margin: 0 auto;"/>
+  
+
+  
+  <br><br>
+<h1 id="orbital-mechanics">
+  Orbital mechanics
+  <a class="anchor" href="#orbital-mechanics">#</a>
+</h1>
+<h2 id="orbital-parameters">
+  Orbital parameters
+  <a class="anchor" href="#orbital-parameters">#</a>
+</h2>
+<ul>
+<li>Orbital period</li>
+<li>Inclination</li>
+<li>Eccentricity</li>
+</ul>
+<h3 id="simulators">
+  Simulators
+  <a class="anchor" href="#simulators">#</a>
+</h3>
+<p>Heliocentric orbital simulator: <a href="https://ssd.jpl.nasa.gov/tools/orbit_diagram.html">https://ssd.jpl.nasa.gov/tools/orbit_diagram.html</a></p>
+<p>Specific simulator for Saturn: <a href="https://gravitysimulator.org/solar-system/saturn-and-its-rings-and-major-moons">https://gravitysimulator.org/solar-system/saturn-and-its-rings-and-major-moons</a></p>
+<h2 id="rotation-parameters">
+  Rotation parameters
+  <a class="anchor" href="#rotation-parameters">#</a>
+</h2>
+<ul>
+<li>Rotation period</li>
+<li>Axial tilt</li>
+</ul>
+<h2 id="celestial-coordinates">
+  Celestial coordinates
+  <a class="anchor" href="#celestial-coordinates">#</a>
+</h2>
+<ul>
+<li>Ascension</li>
+<li>Declination</li>
+</ul>
+<h2 id="gravitational-resonance">
+  Gravitational resonance
+  <a class="anchor" href="#gravitational-resonance">#</a>
+</h2>
+<h2 id="trojan-satellites">
+  Trojan satellites
+  <a class="anchor" href="#trojan-satellites">#</a>
+</h2>
+<h1 id="planetary-features">
+  Planetary features
+  <a class="anchor" href="#planetary-features">#</a>
+</h1>
+<h3 id="spectrum">
+  Spectrum
+  <a class="anchor" href="#spectrum">#</a>
+</h3>
+<h3 id="albedo">
+  Albedo
+  <a class="anchor" href="#albedo">#</a>
+</h3>
+<h3 id="peaks-of-eternal-light">
+  Peaks of eternal light
+  <a class="anchor" href="#peaks-of-eternal-light">#</a>
+</h3>
+<p><a href="https://en.wikipedia.org/wiki/Peak_of_eternal_light">https://en.wikipedia.org/wiki/Peak_of_eternal_light</a></p>
+<h3 id="permanently-shadowed-craters">
+  Permanently shadowed craters
+  <a class="anchor" href="#permanently-shadowed-craters">#</a>
+</h3>
+<p><a href="https://en.wikipedia.org/wiki/Permanently_shadowed_crater">https://en.wikipedia.org/wiki/Permanently_shadowed_crater</a></p>
+<h1 id="planetary-topography">
+  Planetary Topography
+  <a class="anchor" href="#planetary-topography">#</a>
+</h1>
+<h2 id="spheroid">
+  Spheroid
+  <a class="anchor" href="#spheroid">#</a>
+</h2>
+<p><img src="https://wenjiezan.github.io/site/archive/images/solar-system/spheroids.png" alt="Oblate and prolate spheroids" /></p>
+<p><em>Oblate and prolate spheroids. <a href="https://en.wikipedia.org/wiki/Spheroid">Source</a>.</em></p>
+<p>A spheroid, also known as an ellipsoid of revolution or rotational ellipsoid, is the surface obtained by rotating an ellipse about one of its principal axes; in other words, an ellipsoid with two equal semi-diameters. A spheroid has circular symmetry.</p>
+<p>If the ellipse is rotated about its major axis, the result is a <strong>prolate spheroid</strong>, elongated like a rugby ball.</p>
+<p>If the ellipse is rotated about its minor axis, the result is an <strong>oblate spheroid</strong>, flattened like a lentil or a plain M&amp;M.</p>
+<p>If the generating ellipse is a circle, the result is a <strong>sphere</strong>.</p>
+<p>Due to the combined effects of gravity and rotation, planets are not quite in the shape of a sphere, but instead is slightly flattened in the direction of their axis of rotation.</p>
+<h2 id="quadrangles">
+  Quadrangles
+  <a class="anchor" href="#quadrangles">#</a>
+</h2>
+<p>TDB</p>
+<h2 id="distance-of-the-horizon">
+  Distance of the horizon
+  <a class="anchor" href="#distance-of-the-horizon">#</a>
+</h2>
+<p>Distance to the true horizon from an observer close to the planet&rsquo;s surface is about 
+<link rel="stylesheet" href="/site/katex/katex.min.css" />
+<script defer src="/site/katex/katex.min.js"></script>
+<script defer src="/site/katex/auto-render.min.js" onload="renderMathInElement(document.body);"></script><span>
+  \(d \simeq \sqrt{2 h R}\)
+</span>
+where <em>h</em> is height above sea level and <em>R</em> is the radius. For instance:</p>
+<ul>
+<li>
+<p>On Earth, in standard atmospheric conditions, for an observer with eye level above sea level by 1.70 metres, the horizon is at a distance of about 5 km.</p>
+</li>
+<li>
+<p>On Mars, where <em>R</em> = 3300km, for the same observer the horizon would be at <span>
+  \(d \simeq \sqrt{2*1.7m*3300000m} \simeq 3.5\)
+</span>
+km</p>
+</li>
+<li>
+<p>On Europa, where <em>R</em> = 1561km, for the same observer the horizon would be at <span>
+  \(d \simeq \sqrt{2*1.7m*1561000m} \simeq 2.3\)
+</span>
+km</p>
+</li>
+</ul>
+<h3 id="calculator">
+  Calculator
+  <a class="anchor" href="#calculator">#</a>
+</h3>
+<p>Insert the height of the observer and the radius of the planet to obtain the horizon distance, calculated with the formula above.</p>
+<div id="horizon-distance-calculator">
+Height: <input id='horizon-calculator-height' oninput="computeHorizonDistance();" value="1.7">m <br/>
+Radius: <input id='horizon-calculator-radius' oninput="computeHorizonDistance();" value="3300">km <br/>
+Distance of the horizon: <span id='computed-distance-of-horizon'></span>km
+</div>
+<script>
+function computeHorizonDistance(){
+    console.log("test");
+    const height = document.getElementById('horizon-calculator-height').value;
+    const radius = document.getElementById('horizon-calculator-radius').value;
+    const distance = Math.sqrt(2 * height * radius * 1000) / 1000;
+    document.getElementById('computed-distance-of-horizon').innerHTML = distance.toFixed(4);
+}
+computeHorizonDistance();
+</script>
+<h1 id="planetary-geology">
+  Planetary Geology
+  <a class="anchor" href="#planetary-geology">#</a>
+</h1>
+<h2 id="cold-trap">
+  Cold trap
+  <a class="anchor" href="#cold-trap">#</a>
+</h2>
+<p><a href="https://en.wikipedia.org/wiki/Cold_trap_%28astronomy%29">https://en.wikipedia.org/wiki/Cold_trap_(astronomy)</a></p>
+<h1 id="solar-system">
+  Solar System
+  <a class="anchor" href="#solar-system">#</a>
+</h1>
+<h2 id="delta-v-requirements-for-main-solar-system-bodies">
+  Delta-v requirements for main Solar System bodies
+  <a class="anchor" href="#delta-v-requirements-for-main-solar-system-bodies">#</a>
+</h2>
+<p><img src="https://wenjiezan.github.io/site/archive/images/solar-system/Solar-system-delta-v-map.png" alt="Delta-v requirements for main Solar System body" /></p>
+<h2 id="coordinates-system">
+  Coordinates system
+  <a class="anchor" href="#coordinates-system">#</a>
+</h2>
+<h3 id="ecliptic-coordinate-system">
+  Ecliptic coordinate system
+  <a class="anchor" href="#ecliptic-coordinate-system">#</a>
+</h3>
+<p>This spherical coordinate system is uses to specify the position of various orbiting bodies with respect to the Sun <a href="#reference-1">[1]</a>.</p>
+<p>Such coordinate system can also be centered on a specific planet to define the orbits of its moons or satellites, as it&rsquo;s sometimes done with the Earth.</p>
+<p>The name of the coordinates are:</p>
+<ul>
+<li>
+<p>If heliocentric (centered on the Sun):</p>
+<ul>
+<li>longitude <strong>l</strong></li>
+<li>latitude <strong>b</strong></li>
+<li>distance <strong>r</strong></li>
+</ul>
+</li>
+<li>
+<p>If geocentric (centered on the Earth or another planet with orbiting satellites):</p>
+<ul>
+<li>longitude λ (lowercase lamda)</li>
+<li>latitudine β (lowercase beta)</li>
+<li>distanza Δ (uppercase delta)</li>
+</ul>
+</li>
+</ul>
+<h1 id="references">
+  References
+  <a class="anchor" href="#references">#</a>
+</h1>
+<p><a href="javascript:history.back()" id='reference-1'>[1]</a> &ldquo;Ecliptic_coordinate_system&rdquo; <a href="https://en.wikipedia.org/wiki/Ecliptic_coordinate_system">https://en.wikipedia.org/wiki/Ecliptic_coordinate_system</a>.</p>
+
+
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#orbital-mechanics">Orbital mechanics</a>
+      <ul>
+        <li><a href="#orbital-parameters">Orbital parameters</a>
+          <ul>
+            <li><a href="#simulators">Simulators</a></li>
+          </ul>
+        </li>
+        <li><a href="#rotation-parameters">Rotation parameters</a></li>
+        <li><a href="#celestial-coordinates">Celestial coordinates</a></li>
+        <li><a href="#gravitational-resonance">Gravitational resonance</a></li>
+        <li><a href="#trojan-satellites">Trojan satellites</a></li>
+      </ul>
+    </li>
+    <li><a href="#planetary-features">Planetary features</a>
+      <ul>
+        <li>
+          <ul>
+            <li><a href="#spectrum">Spectrum</a></li>
+            <li><a href="#albedo">Albedo</a></li>
+            <li><a href="#peaks-of-eternal-light">Peaks of eternal light</a></li>
+            <li><a href="#permanently-shadowed-craters">Permanently shadowed craters</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#planetary-topography">Planetary Topography</a>
+      <ul>
+        <li><a href="#spheroid">Spheroid</a></li>
+        <li><a href="#quadrangles">Quadrangles</a></li>
+        <li><a href="#distance-of-the-horizon">Distance of the horizon</a>
+          <ul>
+            <li><a href="#calculator">Calculator</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#planetary-geology">Planetary Geology</a>
+      <ul>
+        <li><a href="#cold-trap">Cold trap</a></li>
+      </ul>
+    </li>
+    <li><a href="#solar-system">Solar System</a>
+      <ul>
+        <li><a href="#delta-v-requirements-for-main-solar-system-bodies">Delta-v requirements for main Solar System bodies</a></li>
+        <li><a href="#coordinates-system">Coordinates system</a>
+          <ul>
+            <li><a href="#ecliptic-coordinate-system">Ecliptic coordinate system</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#references">References</a></li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

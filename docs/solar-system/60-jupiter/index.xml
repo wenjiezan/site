@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jupiter on Notes</title>
+    <link>https://wenjiezan.github.io/site/docs/solar-system/60-jupiter/</link>
+    <description>Recent content in Jupiter on Notes</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://wenjiezan.github.io/site/docs/solar-system/60-jupiter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Europa</title>
+      <link>https://wenjiezan.github.io/site/docs/solar-system/60-jupiter/europa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wenjiezan.github.io/site/docs/solar-system/60-jupiter/europa/</guid>
+      <description>&lt;h2 id=&#34;wikipedia&#34;&gt;&#xA;  Wikipedia&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#wikipedia&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Europa_%28moon%29&#34;&gt;https://en.wikipedia.org/wiki/Europa_(moon)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;maps&#34;&gt;&#xA;  Maps&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#maps&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Europa has a geological map and defined quadrangles.&lt;/p&gt;&#xA;&lt;h3 id=&#34;usgs-map&#34;&gt;&#xA;  USGS Map&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#usgs-map&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://wenjiezan.github.io/site/archive/maps/europa/Europa_USGS_map.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pubs.usgs.gov/imap/i2757/&#34;&gt;https://pubs.usgs.gov/imap/i2757/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;NOTES ON BASE This sheet is one in a series of maps of the Galilean satellites of Jupiter at a nominal scale of 1:15,000,000. This series is based on data from the Galileo Orbiter Solid-State Imaging (SSI) camera and the Voyager 1 and 2 spacecraft.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

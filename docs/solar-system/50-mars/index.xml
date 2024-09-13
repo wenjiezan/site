@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mars on Notes</title>
+    <link>https://wenjiezan.github.io/site/docs/solar-system/50-mars/</link>
+    <description>Recent content in Mars on Notes</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://wenjiezan.github.io/site/docs/solar-system/50-mars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Noctis Labyrinthus</title>
+      <link>https://wenjiezan.github.io/site/docs/solar-system/50-mars/noctis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wenjiezan.github.io/site/docs/solar-system/50-mars/noctis/</guid>
+      <description>&lt;h1 id=&#34;sources&#34;&gt;&#xA;  Sources:&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#sources&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wikipedia: &lt;a href=&#34;https://en.wikipedia.org/wiki/Noctis_Labyrinthus&#34;&gt;https://en.wikipedia.org/wiki/Noctis_Labyrinthus&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;local-geology&#34;&gt;&#xA;  Local Geology&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#local-geology&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;usgs-geological-map-data&#34;&gt;&#xA;  USGS Geological map data&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#usgs-geological-map-data&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;From Wikipedia &lt;a href=&#34;https://en.wikipedia.org/wiki/Ore_resources_on_Mars&#34;&gt;https://en.wikipedia.org/wiki/Ore_resources_on_Mars&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The abundance of volcanic features together with widespread cratering are strong evidence for a variety of ores.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Source: &lt;a href=&#34;https://www.researchgate.net/publication/239594538_Potential_martian_mineral_resources_Mechanisms_and_terrestrial_analogues&#34;&gt;https://www.researchgate.net/publication/239594538_Potential_martian_mineral_resources_Mechanisms_and_terrestrial_analogues&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phobos &amp; Deimos</title>
+      <link>https://wenjiezan.github.io/site/docs/solar-system/50-mars/phobos_deimos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wenjiezan.github.io/site/docs/solar-system/50-mars/phobos_deimos/</guid>
+      <description>&lt;h2 id=&#34;apparent-size&#34;&gt;&#xA;  Apparent size&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#apparent-size&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://wenjiezan.github.io/site/archive/images/mars/PIA17351.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://photojournal.jpl.nasa.gov/catalog/PIA17351&#34;&gt;https://photojournal.jpl.nasa.gov/catalog/PIA17351&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This illustration provides a comparison for how big the moons of Mars appear to be, as seen from the surface of Mars, in relation to the size that Earth&amp;rsquo;s moon appears to be when seen from the surface of Earth. Earth&amp;rsquo;s moon actually has a diameter more than 100 times greater than the larger Martian moon, Phobos. However, the Martian moons orbit much closer to their planet than the distance between Earth and Earth&amp;rsquo;s moon.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

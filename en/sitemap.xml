@@ -34,6 +34,12 @@
                 href="https://wenjiezan.github.io/site/blog/"
                 />
   </url><url>
+    <loc>https://wenjiezan.github.io/site/docs/solar-system/50-mars/phobos_deimos/</loc>
+    <lastmod>2024-09-14T01:04:48+01:00</lastmod>
+  </url><url>
+    <loc>https://wenjiezan.github.io/site/docs/solar-system/50-mars/noctis/</loc>
+    <lastmod>2024-09-14T01:04:48+01:00</lastmod>
+  </url><url>
     <loc>https://wenjiezan.github.io/site/docs/solar-system/40-asteroid-belt/</loc>
     <lastmod>2024-09-13T01:18:23+01:00</lastmod>
   </url><url>
@@ -45,6 +51,9 @@
   </url><url>
     <loc>https://wenjiezan.github.io/site/docs/solar-system/70-saturn/</loc>
     <lastmod>2024-09-13T01:18:23+01:00</lastmod>
+  </url><url>
+    <loc>https://wenjiezan.github.io/site/docs/solar-system/50-mars/cloud_atlas/</loc>
+    <lastmod>2024-09-14T01:04:48+01:00</lastmod>
   </url><url>
     <loc>https://wenjiezan.github.io/site/docs/solar-system/0-planetary-science/</loc>
     <lastmod>2024-09-12T22:54:55+01:00</lastmod>
@@ -101,12 +110,6 @@
                 hreflang="en"
                 href="https://wenjiezan.github.io/site/"
                 />
-  </url><url>
-    <loc>https://wenjiezan.github.io/site/docs/solar-system/50-mars/noctis/</loc>
-    <lastmod>2024-09-13T01:18:23+01:00</lastmod>
-  </url><url>
-    <loc>https://wenjiezan.github.io/site/docs/solar-system/50-mars/phobos_deimos/</loc>
-    <lastmod>2024-09-13T01:18:23+01:00</lastmod>
   </url><url>
     <loc>https://wenjiezan.github.io/site/library/chiang-story-of-your-life/</loc>
     <lastmod>2024-05-13T22:56:27+01:00</lastmod>

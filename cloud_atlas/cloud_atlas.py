@@ -68,7 +68,7 @@ marker.on('click', function(e) {{
 markdown = """
 ---
 title: Cloud Atlas of Mars
-image: "cloud_atlas/cover.png"
+image: "cloud_atlas/images/synoptic_phenomena_10.png"
 weight: 100
 ---
 
